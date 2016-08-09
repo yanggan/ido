@@ -16,10 +16,14 @@
 
   只保留累计完成、昨日完成、近7日完成
 
-- 统计使用心得图表库展示（使用的库、OC）
+
+@功能调整
+
+- 新增统计使用心得图表库展示（使用的库、OC）
 
   - https://github.com/kevinzhow/PNChart
   - https://github.com/ArthurGuibert/FSLineChart
+- 新增专注页面
 
 
 
